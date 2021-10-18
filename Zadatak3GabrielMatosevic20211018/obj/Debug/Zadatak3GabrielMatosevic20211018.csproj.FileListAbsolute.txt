@@ -1,0 +1,7 @@
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\PrimjenaWindowsKontrole\Zadatak3GabrielMatosevic20211018\obj\Debug\Zadatak3GabrielMatosevic20211018.csprojAssemblyReference.cache
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\PrimjenaWindowsKontrole\Zadatak3GabrielMatosevic20211018\obj\Debug\Zadatak3GabrielMatosevic20211018.csproj.CoreCompileInputs.cache
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\PrimjenaWindowsKontrole\Zadatak3GabrielMatosevic20211018\bin\Debug\Zadatak3GabrielMatosevic20211018.exe.config
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\PrimjenaWindowsKontrole\Zadatak3GabrielMatosevic20211018\bin\Debug\Zadatak3GabrielMatosevic20211018.exe
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\PrimjenaWindowsKontrole\Zadatak3GabrielMatosevic20211018\bin\Debug\Zadatak3GabrielMatosevic20211018.pdb
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\PrimjenaWindowsKontrole\Zadatak3GabrielMatosevic20211018\obj\Debug\Zadatak3GabrielMatosevic20211018.exe
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\PrimjenaWindowsKontrole\Zadatak3GabrielMatosevic20211018\obj\Debug\Zadatak3GabrielMatosevic20211018.pdb
